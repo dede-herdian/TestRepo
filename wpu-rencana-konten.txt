@@ -1,3 +1,5 @@
 RENANA KONTEN
 -JavaScript
+ .Framwork
+ .ide
 -dll
